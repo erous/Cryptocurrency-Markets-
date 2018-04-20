@@ -3,7 +3,7 @@
 ## Data Sources:
 
 1. **Bitcoin Prices:** [Quandl API](https://www.quandl.com/collections/markets/bitcoin-data), *API Key Required* 
-2. **ALtcoin Prices:** [Polenix API](https://poloniex.com/support/api/), *No API Key Required*
+2. **Altcoin Prices:** [Polenix API](https://poloniex.com/support/api/), *No API Key Required*
 3. **Top Stories Relating To Cryptocurrencies**: Google News
 
 API Key Should be Stored in *Secrets.py*: `QuandlAPiKey = "Your API Key"`
