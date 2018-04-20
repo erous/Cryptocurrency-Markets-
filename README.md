@@ -10,7 +10,7 @@ API Key Should be Stored in *Secrets.py*: `QuandlAPiKey = "Your API Key"`
 
 ## Table Relation In Database
 * Bitcoin Prices are retreived in USD where as the Altcoins prices are retrieved in term of Bitcoin price at that time
-* To convert the Altcoin prices in USD the program extracts the Bitcoin price for each day from the Bitcoin Kraken table and multiplies it by the ALtcoin value to the convert the Altcoin prices in terms of USD
+* To convert the Altcoin prices in USD the program extracts the Bitcoin price for each day from the Bitcoin Kraken table and multiplies it by the Altcoin value to the convert the Altcoin prices in terms of USD
 
 ## Code Organization:
 
