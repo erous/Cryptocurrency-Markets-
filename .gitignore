@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Secret.py
+Cache.json
+CryptoCurrency.db
 # C extensions
 *.so
-
+TestEnviroment/
 # Distribution / packaging
 .Python
 env/
